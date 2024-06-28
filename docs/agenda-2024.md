@@ -8,6 +8,7 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 
 - [ ] Deadline informe semestral investigadores asociados :warning: **[30 de junio]**
 - [ ] Voluntario que se haga cargo de LinkedIn :hand: **[ASAP]**
+- [ ] Promover la [inscripción en nuestro newsletter](https://zcmp.eu/e28J) :rolled_up_newspaper: **[ASAP]**
 - [ ] Conformar un grupo para planificar workshops 2025, interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 - [ ] Conformar un grupo para evaluar los proyectos del grupo [(ver este documento)](https://hackmd.io/@training-datalab/projects). Interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 - [ ] Estamos desarrollando este proyecto para construir un [gold standard de toxicidad en la esfera digital](https://github.com/training-datalab/gold-standard-toxicity). Llevamos un **62% de avance**, quienes estén interesados en unirse, pueden :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
@@ -19,6 +20,7 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 - [ ] Reunión para planificar ranking de ciencia política, interesados en unirse :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[30 de agosto]**
 - [ ] Lanzamiento del nuevo sitio web :computer: **[30 de agosto]**
 - [ ] Nueva medición del ranking de ciencia política :dart: **[5 de septiembre]**
+- [ ] Primer newsletter trimestral :rolled_up_newspaper: **[5 de septiembre]**
 
 ## :calendar: Largo plazo
 
@@ -26,7 +28,4 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 - [ ] Planificación de workshops 2025 :book: **[fecha por confirmar]**
 - [ ] Deadline informe semestral investigadores asociados :warning: **[30 de noviembre]**
 - [ ] Nueva medición del ranking de ciencia política :dart: **[5 de diciembre]**
-
-
-
-
+- [ ] Newsletter trimestral :rolled_up_newspaper: **[5 de diciembre]**
