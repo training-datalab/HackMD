@@ -22,7 +22,7 @@ Los investigadores asociados deben cumplir con un **marco de compromisos mínimo
 
 ## Investigadores Adjuntos
 
-El marco de compromisos mínimos **no aplica** para investigadores adjuntos. Pero de todas maneras, mantenemos registro del cumplimiento voluntario.
+El marco de compromisos mínimos **no aplica** para investigadores adjuntos ni asistentes de investigación. Pero de todas maneras, mantenemos registro del cumplimiento voluntario.
 
 | Investigador | Incorporación | Working paper | Reporte semestral | GitHub | Perfil |
 | ------------ | :-----------: | :-----------: | :---------------: | :----: | :----: |
@@ -31,5 +31,13 @@ El marco de compromisos mínimos **no aplica** para investigadores adjuntos. Per
 | Carlos Palacios | junio 2022 | | | :x: | :white_check_mark: |
 | Miguel A Pelayo | abril 2023 | | | :x: | :white_check_mark: |
 | R Sáez-Vergara | agosto 2023 | | | :x: | :white_check_mark: |
+
+<small>*Nota.* Working paper cada tres años (opcional), reporte semestral de **junio de 2024** (opcional). Todos deberían tener una cuenta en GitHub con 2FA y perfil en el sitio web.</small>
+
+## Asistentes de Investigación
+
+| Asistente | Incorporación | Working paper | Reporte semestral | GitHub | Perfil |
+| --------- | :-----------: | :-----------: | :---------------: | :----: | :----: |
+| S Carrerá-Martínez | diciembre 2023 | | | :white_check_mark: | :white_check_mark: |
 
 <small>*Nota.* Working paper cada tres años (opcional), reporte semestral de **junio de 2024** (opcional). Todos deberían tener una cuenta en GitHub con 2FA y perfil en el sitio web.</small>
