@@ -1,6 +1,6 @@
 # Agenda 2024 Training Data Lab
 
-[![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
+[![hackmd-github-sync-badge](https://hackmd.io/_n_KUh2aR8-KxXY_LTlzaw/badge)](https://hackmd.io/_n_KUh2aR8-KxXY_LTlzaw) [![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## :hourglass_flowing_sand: Corto plazo
 
