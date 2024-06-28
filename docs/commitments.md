@@ -1,7 +1,8 @@
 # Compromisos Investigadores Asociados
+
 HackMD URL: https://hackmd.io/@training-datalab/commitments
 
-[![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
+[![hackmd-github-sync-badge](https://hackmd.io/jjqhmIpyR06mGCGFdBMrCw/badge)](https://hackmd.io/jjqhmIpyR06mGCGFdBMrCw) [![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Investigadores Asociados
 
