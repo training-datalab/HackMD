@@ -1,11 +1,12 @@
 # Training Data Lab
+
 # Perfiles de los investigadores y dinámica de grupo
 
 HackMD URL: https://hackmd.io/@training-datalab/gemini
 
-[![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
+[![hackmd-github-sync-badge](https://hackmd.io/XlhI1VY6RhK7KHn5IrTf8A/badge)](https://hackmd.io/XlhI1VY6RhK7KHn5IrTf8A) [![tDL](https://raw.githubusercontent.com/training-datalab/HackMD/main/badges/tDL.svg)](https://training-datalab.com/)
 
-*$*$ Documento generado con AI (Gemini model)*
+_$*$ Documento generado con AI (Gemini model)_
 
 Este documento informativo analiza los perfiles individuales de los investigadores para comprender las motivaciones, objetivos y contribuciones potenciales de los miembros del Training Data Lab. El análisis identifica temas clave y destaca posibles sinergias y áreas de desarrollo del grupo.
 
