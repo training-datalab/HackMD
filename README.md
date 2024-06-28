@@ -5,10 +5,10 @@
 
 ## Governance
 
-* [Agenda 2024 (in Spanish)](docs/agenda-2024.md)
-* [Minimum commitments (in Spanish)](docs/commitments.md)
-* [Gemini analysis (in Spanish)](docs/gemini.md)
+* [Agenda 2024](docs/agenda-2024.md) (in Spanish)
+* [Minimum commitments](docs/commitments.md) (in Spanish)
+* [Gemini analysis](docs/gemini.md) (in Spanish)
 
 ## Projects
 
-* [Group projects (in Spanish)](docs/projects.md)
+* [Group projects](docs/projects.md) (in Spanish)
