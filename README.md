@@ -5,4 +5,5 @@
 
 ## Documents
 
+* [Minimum commitments (in Spanish)](docs/commitments.md)
 * [Group projects (in Spanish)](docs/projects.md)
