@@ -5,7 +5,7 @@ HackMD URL: https://hackmd.io/@training-datalab/projects
 
 ## Observaciones generales
 
-1. Algunos de los repositorios son privados.
+1. Algunos repositorios son privados.
 2. Algunos repositorios deberían ser transferidos a la cuenta del tDL.
 3. Listado en progreso.
 
