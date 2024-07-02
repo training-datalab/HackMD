@@ -1,4 +1,4 @@
-# Compromisos Investigadores Asociados
+# Compromisos Investigadores Training Data Lab
 
 HackMD URL: https://hackmd.io/@training-datalab/commitments
 
@@ -10,13 +10,13 @@ Los investigadores asociados deben cumplir con un **marco de compromisos mínimo
 
 | Investigador | Incorporación | Working paper | Reporte semestral | GitHub | Perfil |
 | ------------ | :-----------: | :-----------: | :---------------: | :----: | :----: |
-|Carla Cisternas | enero 2020 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Rodrigo Cuevas | enero 2020 | :white_check_mark: | | :white_check_mark: | :white_check_mark: |
+| Carla Cisternas | enero 2020 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Rodrigo Cuevas | enero 2020 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | B González-Bustamante| enero 2020 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Miguel A López | enero 2022 |  |  | :x: | :x: |
-| Jaquelin Morillo | enero 2020 | :white_check_mark: |  | :white_check_mark: | :white_check_mark: |
-| Alejandro Olivares | enero 2020 | :x: |  | :white_check_mark: | :white_check_mark: |
-| Sebastián Rivera | enero 2024 |  |  | :white_check_mark: | :white_check_mark: |
+| Miguel A López | enero 2022 |  | :hourglass_flowing_sand: | :x: | :x: |
+| Jaquelin Morillo | enero 2020 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Alejandro Olivares | enero 2020 | :x: | :x: | :white_check_mark: | :white_check_mark: |
+| Sebastián Rivera | enero 2024 |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 <small>*Nota.* Working paper cada tres años, reporte semestral de **junio de 2024**. Todos deberían tener una cuenta en GitHub con 2FA y perfil en el sitio web.</small>
 
