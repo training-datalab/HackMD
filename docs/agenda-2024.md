@@ -6,12 +6,12 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 
 ## :hourglass_flowing_sand: Corto plazo
 
-- [ ] Deadline informe semestral investigadores asociados :warning: **[30 de junio]**
-- [ ] Voluntario que se haga cargo de LinkedIn :hand: **[ASAP]**
+- [X] Deadline informe semestral investigadores asociados :white_check_mark: **[30 de junio]** 
+- [X] Voluntario que se haga cargo de LinkedIn :heavy_check_mark: 
 - [ ] Promover la [inscripción en nuestro newsletter](https://zcmp.eu/e28J) :newspaper: **[ASAP]**
 - [ ] Conformar un grupo para planificar workshops 2025, interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 - [ ] Conformar un grupo para evaluar los proyectos del grupo [(ver este documento)](https://hackmd.io/@training-datalab/projects). Interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
-- [ ] Estamos desarrollando este proyecto para construir un [gold standard de toxicidad en la esfera digital](https://github.com/training-datalab/gold-standard-toxicity). Llevamos un **62% de avance**, quienes estén interesados en unirse, pueden :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
+- [ ] Estamos desarrollando este proyecto para construir un [gold standard de toxicidad en la esfera digital](https://github.com/training-datalab/gold-standard-toxicity). Llevamos un **65% de avance**, quienes estén interesados en unirse, pueden :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 - [ ] Validar perfiles para el nuevo sitio web :computer: **[fecha por confirmar]**
 
 ## :timer_clock: Mediano plazo
@@ -24,7 +24,7 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 
 ## :calendar: Largo plazo
 
-- [ ] Workshop anual :classical_building:  **[fecha por confirmar]**
+- [ ] Workshop anual :classical_building:  **[entre la última semana de nov. y primera de diciembre]**
 - [ ] Planificación de workshops 2025 :book: **[fecha por confirmar]**
 - [ ] Deadline informe semestral investigadores asociados :warning: **[30 de noviembre]**
 - [ ] Nueva medición del ranking de ciencia política :dart: **[5 de diciembre]**
