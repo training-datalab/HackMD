@@ -11,8 +11,9 @@ HackMD URL: https://hackmd.io/@training-datalab/agenda-2024
 - [ ] Promover la [inscripción en nuestro newsletter](https://zcmp.eu/e28J) :newspaper: **[ASAP]**
 - [ ] Conformar un grupo para planificar workshops 2025, interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 - [ ] Conformar un grupo para evaluar los proyectos del grupo [(ver este documento)](https://hackmd.io/@training-datalab/projects). Interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
-- [ ] Estamos desarrollando este proyecto para construir un [gold standard de toxicidad en la esfera digital](https://github.com/training-datalab/gold-standard-toxicity). Llevamos un **65% de avance**, quienes estén interesados en unirse, pueden :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
+- [X] Estamos desarrollando este proyecto para construir un [gold standard de toxicidad en la esfera digital](https://github.com/training-datalab/gold-standard-toxicity). Ya terminamos la codificación.
 - [ ] Validar perfiles para el nuevo sitio web :computer: **[fecha por confirmar]**
+- [ ] Participar como oyentes en el curso de Data Mining del Doctorado UDP. [Acá está el programa](https://github.com/Doctorado-UDP/data-mining-2024/blob/main/refs/Programa-Data-Mining-2024.pdf). Interesados :email: [manifestarlo por email](mailto:bastian.gonzalez.b@mail.udp.cl) **[ASAP]**
 
 ## :timer_clock: Mediano plazo
 
